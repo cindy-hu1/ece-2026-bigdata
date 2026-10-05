@@ -1,0 +1,6 @@
+Completed 7.2 KiB/7.2 KiB (12.2 KiB/s) with 1 file(s) remainingupload: ../data/users.csv to s3://user-c-hu-ece/bronze/users.csv
+Completed 323.8 KiB/323.8 KiB (622.8 KiB/s) with 1 file(s) remainingupload: ../data/orders.csv to s3://user-c-hu-ece/bronze/orders.csv  
+2026-10-04 18:16:34     331568 bronze/orders.csv
+2026-10-04 18:16:14       7351 bronze/users.csv
+2026-10-04 18:16:34     331568 bronze/orders.csv
+2026-10-04 18:16:14       7351 bronze/users.csv
